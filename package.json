@@ -1,0 +1,14 @@
+{
+  "name": "tki-profiler",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "recharts": "^2.1.9"
+  },
+  "scripts": {
+    "start": "webpack serve --open",
+    "build": "webpack"
+  }
+}
